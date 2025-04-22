@@ -4,7 +4,7 @@
 
 <p align="center">
   🧑‍💻 Desarrollador web | Web Developer | 📍 SMJ.dev <br>
-  🚀 Explorando | Exploring Python, Django, MongoDB y PostgreSQL
+  🚀 Explorando | Exploring Python, Django, MongoDB & PostgreSQL
 </p>
 
 <!-- 🎨 Banner personalizado -->
@@ -16,7 +16,7 @@
 
 ## 🌍 Idiomas | Languages I Speak
 
-- 🇪🇸 Español (Nativo)
+- 🇪🇸 Español (Nativo / Native)
 - 🇬🇧 Inglés (Intermedio / Intermediate)
 
 ---
